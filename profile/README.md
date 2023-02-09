@@ -1,4 +1,4 @@
-🚧 Note: this page is still a work in progress
+# 🚧 Note: this page is still a work in progress
 
 # The Empire Strikes Back: The Geography of Governance Strategies in the Assyrian Empire
 
@@ -18,6 +18,11 @@ Read More at the [Project Page](https://www.dipstudistorici.unito.it/do/progetti
 
 # Links
 
-[Project Page](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8) at the University of Turin website.
+- [Project Page](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8) at the University of Turin website.
+- [Project roadmap and activities](https://github.com/orgs/UnitoAssyrianGovernance/projects/5) on Github
 
+## Repositories
+
+- [GIS Geopackage with Vector data](https://github.com/UnitoAssyrianGovernance/GISVectors) versioned using [Kart](https://kartproject.org/).
+- [GIS Geopackage with Raster data](https://github.com/UnitoAssyrianGovernance/GISRasters) versioned using [Kart](https://kartproject.org/).
 
