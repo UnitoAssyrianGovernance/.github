@@ -19,7 +19,8 @@ Read More at the [Project Page](https://www.dipstudistorici.unito.it/do/progetti
 # Links
 
 - [Project Page](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8) at the University of Turin website.
-- [Project roadmap and activities](https://github.com/orgs/UnitoAssyrianGovernance/projects/5) on Github
+- [Project roadmap and activities](https://github.com/orgs/UnitoAssyrianGovernance/projects/5) on Github.
+- [Project Wiki](https://github.com/UnitoAssyrianGovernance/.github/wiki) on Github. Documentation for GIS and general things is found here.
 
 ## Repositories
 
